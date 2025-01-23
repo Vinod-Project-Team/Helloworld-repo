@@ -6,4 +6,5 @@ void main()
   printf("welcome");
  printf("ok ");
   ////
+  ///
 }
