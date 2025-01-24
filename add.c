@@ -6,4 +6,5 @@ void main()
   int sum;
   sum = a + b;
   return sum;
+  ok
 }
